@@ -5,7 +5,9 @@
 Kitchen Wizard unlocks the world of recipes on your mobile device. This comprehensive app empowers you to learn how to cook, build Delicious dishes, and prepare for ingredients which you have. Kitchen Wizard is all you need.
 
 ## ⚫ Demonstration Video⚫
-<img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/demonstration.gif" width="300">
+<img src="https://github.com/Prashant-ranjan-singh-123/book-worlds/blob/main/readme_image/demo.gif?raw=true" width="300">
+
+[//]: # (<img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/book-worlds/blob/main/readme_image/demo.gif" width="300">)
 
 ## ⚫ App Screens ⚫
 
