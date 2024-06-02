@@ -2,7 +2,7 @@
 
 [//]: # (![App Icon]&#40;https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/assets/images/icon.png&#41;)
 
-Kitchen Wizard unlocks the world of recipes on your mobile device. This comprehensive app empowers you to learn how to cook, build Delicious dishes, and prepare for ingredients which you have. Kitchen Wizard is all you need.
+Books World isn't just a mobile library; it's a portal to a hidden universe of stories waiting to be devoured. Fuel your Book Mania with a curated selection that ignites your imagination and broadens your horizons. Explore diverse perspectives, uncover hidden gems, and lose yourself in captivating narratives - all at your fingertips.
 
 ## ⚫ Demonstration Video⚫
 <img src="https://github.com/Prashant-ranjan-singh-123/book-worlds/blob/main/readme_image/demo.gif?raw=true" width="300">
